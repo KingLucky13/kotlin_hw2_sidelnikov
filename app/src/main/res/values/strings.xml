@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">kotlin_vk2</string>
+    <string name="retry_text">Retry</string>
+    <string name="image_description">cat</string>
 </resources>
